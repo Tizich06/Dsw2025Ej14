@@ -2,6 +2,10 @@
 ## Desarrollo de Software
 ### API Web
 
+De La Vega Lourdes 56181
+Chanampa Tiziano 56478
+3k1
+
 ## Tareas
 Bifurcar (fork) el repositorio.
 
